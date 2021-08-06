@@ -1,6 +1,7 @@
 Common Procedures
 ================================================================================
 Use the [table of contents](#table-of-contents) to navigate this repo of common lab procedures.
+These protocols were adapted 2020-2021 by Chase Weidmann.
 
 Printer-friendly Protocols
 --------------------------------------------------------------------------------
